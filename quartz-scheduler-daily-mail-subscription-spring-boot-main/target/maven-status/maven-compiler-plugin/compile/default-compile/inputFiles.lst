@@ -1,0 +1,17 @@
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\service\DailyMailSubscriptionService.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\controller\DailyMailSubscriptionController.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\exception\handler\ValidationFailureExceptionHandler.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\bootstrap\DailyMailSchedulerInitializer.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\exception\EmailAlreadyRegisteredException.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\quartz\job\detail\DailySubscriptionMailSenderJobDetail.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\DailyMailQuartzSchedulerSpringBootApplication.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\quartz\job\DailySubscriptionMailSenderJob.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\swagger\OpenApiConfiguration.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\mail\EmailService.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\utility\ShitQuoteUtility.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\exception\GenericServerException.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\dto\DailyMailSubscriptionCreationRequest.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\quartz\DailyMailSubscriptionScheduler.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\quartz\trigger\DailyMailSubscriptionTriggerFactory.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\swagger\properties\OpenApiConfigurationProperties.java
+C:\mail-subscription\quartz-scheduler-daily-mail-subscription-spring-boot-main\src\main\java\com\jyotik\mercury\mail\properties\EmailConfigurationProperties.java

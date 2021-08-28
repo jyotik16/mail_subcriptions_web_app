@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "name": "com.hardik.mercury",
+      "type": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties"
+    },
+    {
+      "name": "com.hardik.mercury.swagger",
+      "type": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties",
+      "sourceMethod": "public com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties.Swagger getSwagger() "
+    },
+    {
+      "name": "com.hardik.mercury.swagger.contact",
+      "type": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger$Contact",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger",
+      "sourceMethod": "public com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties.Swagger.Contact getContact() "
+    },
+    {
+      "name": "spring.mail",
+      "type": "com.jyotik.mercury.mail.properties.EmailConfigurationProperties",
+      "sourceType": "com.jyotik.mercury.mail.properties.EmailConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.hardik.mercury.swagger.api-version",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger"
+    },
+    {
+      "name": "com.hardik.mercury.swagger.contact.email",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger$Contact"
+    },
+    {
+      "name": "com.hardik.mercury.swagger.contact.name",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger$Contact"
+    },
+    {
+      "name": "com.hardik.mercury.swagger.contact.url",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger$Contact"
+    },
+    {
+      "name": "com.hardik.mercury.swagger.description",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger"
+    },
+    {
+      "name": "com.hardik.mercury.swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.swagger.properties.OpenApiConfigurationProperties$Swagger"
+    },
+    {
+      "name": "spring.mail.password",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.mail.properties.EmailConfigurationProperties"
+    },
+    {
+      "name": "spring.mail.username",
+      "type": "java.lang.String",
+      "sourceType": "com.jyotik.mercury.mail.properties.EmailConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
