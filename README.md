@@ -1,4 +1,4 @@
-# mail_subscriptions_web_app
+# Mail Subscriptions Web App
 
 #EndPoints
 
