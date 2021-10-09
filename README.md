@@ -1,6 +1,6 @@
 ## Mail Subscriptions Web App
 
-# EndPoints
+### EndPoints
 
 ### @/subscription/create
 
